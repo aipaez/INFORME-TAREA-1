@@ -1,5 +1,5 @@
 # INFORME-TAREA-1
-Nombre: Adrian Paez
+Nombre: Adrian Ismael Paez Tobar
 # 1.  OBJETIVOS
 
 OBJETIVO GENERAL
