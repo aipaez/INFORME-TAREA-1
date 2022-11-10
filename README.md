@@ -2,7 +2,7 @@
 Nombre: Adrian Paez
 1.	OBJETIVOS
 
-OBJETIVO GENERAL
+#OBJETIVO GENERAL
 
 Investigar y comprender los conceptos básicos sobre circuitos eléctricos y sus componentes, dichos son: cantidades, unidades, voltaje, resistencia y corriente, por medio de la lectura de los capítulos 1 y 2 del libro "Principios de circuitos eléctricos" de Floyd y de esta forma obtener las bases correctas que me permitan solucionar problemas sobre el tema.
 
