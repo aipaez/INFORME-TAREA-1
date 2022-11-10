@@ -236,7 +236,7 @@ o	Durante la investigación se brindaron a conocer diversos recursos relevantes 
 
 o	En la resolución de los ejercicios se aplicó lo cual comprendió los capítulos 1 y 2 y se observó que la interacción de voltaje, corriente y resistencia es bastante eficaz debido a que si se emplea de forma idónea los conocimientos adquiridos se puede resolver de forma simple los inconvenientes.
 
-o	Lo más fundamental para mi es la seguridad y al hallar los peligros que se tiene por manipular electricidad deja reflejado que, aunque parece que se labora con valores pequeños y parecen inofensivos puesto que la verdad es distinta y para ello debemos tener cuidado y prestar atención al trabajo que estemos llevando a cabo.
+o	debemos tener en cuenta la seguridad y conocer los peligros que se tiene por manipular electricidad ya que, aunque parece que se labora con valores pequeños y parecen inofensivos la verdad es distinta y para ello debemos tener cuidado y prestar atención al trabajo que estemos llevando a cabo.
 
 # 6.	Bibliografía
 Floyd, T. (2007). Principios de circuitos electricos . PEARSON Educación.
