@@ -16,3 +16,8 @@ OBJETIVOS ESPECIFICOS
 
 -Aplicar lo aprendido con la lectura del capítulo 1 y 2 para la resolución de los ejercicios propuestos en el libro "Principios de circuitos eléctricos" de Floyd.
 
+# 2.	MARCO TEÓRICO (RESUMEN)
+
+•	CAPITULO 1: CANTIDADES Y UNIDADES
+
+![image](https://user-images.githubusercontent.com/116814096/200996517-22638cca-8f5c-41fe-876c-af07fd548b6a.png)
